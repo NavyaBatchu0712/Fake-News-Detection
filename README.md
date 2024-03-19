@@ -21,8 +21,8 @@ Models are trained and tested on benchmark datasets, with performance metrics su
 
 Implementation Details:
 
-Programming Language: Python
-Libraries Used: Transformers, TensorFlow, Keras, Hugging Face Transformers
-Pre-trained Models: BERT , VGG16, ResNet, ResNet50
-Evaluation Metrics: Accuracy, Precision, Recall, F1 Score
+Programming Language: Python.
+Libraries Used: Transformers, TensorFlow, Keras, Hugging Face Transformers.
+Pre-trained Models: BERT , VGG16, ResNet, ResNet50.
+Evaluation Metrics: Accuracy, Precision, Recall, F1 Score.
 Deployment: Models can be deployed using various platforms such as Flask or Docker for real-world applications.
