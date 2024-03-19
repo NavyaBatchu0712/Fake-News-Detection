@@ -6,13 +6,13 @@ Overview:
 
 The project explores the following attention mechanisms in conjunction with BERT for fake news detection:
 
-Self Attention
-Self Attention + VGG16
-Co-Attention
-Co-Attention + ResNet
-Cross Attention
-Cross Attention + ResNet50
-BERT + Self Attention
+Self Attention,
+Self Attention + VGG16,
+Co-Attention,
+Co-Attention + ResNet,
+Cross Attention,
+Cross Attention + ResNet50,
+BERT + Self Attention,
 
 Methodology:
 
